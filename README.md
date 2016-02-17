@@ -9,8 +9,15 @@ L'obiettivo è quello di riassumere tutto ciò che ho personalmente appreso e co
 Quello che racchiude la repository varia da dei semplici ["tips and tricks"](https://it.wikipedia.org/wiki/Tips_and_tricks "Tips and Tricks Wikipedia") a dei riassunti di documenti, traduzioni di post scritti in altre lingue (inglese principalmente), spiegazioni semplificate di argomenti complessi.  
 I contenuti sono scritti in italiano per permettere, agli italiani ovviamente, di avere accesso in modo più semplice, ma completo e corretto, a contenuti espressi attraverso l'uso di altri idiomi e concetti non ben espressi o poco comprensibili.
 
-## Categorie
+---
 
+## Categorie
+* [Sicurezza informatica](#sicurezza-informatica)
+
+---
+
+### Sicurezza informatica
+- [Nmap](Categorie/Sicurezza-Informatica/nmap.md)
 
 ## Crediti
 
