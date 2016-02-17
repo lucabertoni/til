@@ -7,7 +7,7 @@ nmap -A -T4 indirizzo_ip
 
 ## Analisi comando
 `nmap` invoca il software.  
-`-A` abilita la scansione del sistema operativo e della versione in uso sul dispositivo.
+`-A` abilita la scansione del sistema operativo e della versione in uso sul dispositivo.  
 `-T4` impedisce al ritardo dinamico per una scansione di andare al di sotto della soglia dei 10 millisecondi per le porte TCP.
 
 ## Manuale
