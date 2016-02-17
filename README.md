@@ -17,7 +17,7 @@ I contenuti sono scritti in italiano per permettere, agli italiani ovviamente, d
 ---
 
 ### Sicurezza informatica
-- [Nmap](Categorie/Sicurezza-Informatica/nmap.md)
+- [Nmap](Categorie/Sicurezza-Informatica/Nmap.md)
 
 ## Crediti
 
