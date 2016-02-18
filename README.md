@@ -19,6 +19,7 @@ I contenuti sono scritti in italiano per permettere, agli italiani ovviamente, d
 
 ### Linux
 - [Aggiornare bashrc](Categorie/Linux/bashrc-update.md)
+- [Contare i file presenti in una cartella](Categorie/Linux/Contare-File-Dentro-Cartella.md)
 
 ### Sicurezza informatica
 - [Nmap](Categorie/Sicurezza-Informatica/Nmap.md)
