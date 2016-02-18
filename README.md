@@ -12,9 +12,13 @@ I contenuti sono scritti in italiano per permettere, agli italiani ovviamente, d
 ---
 
 ## Categorie
+* [Linux](#linux)
 * [Sicurezza informatica](#sicurezza-informatica)
 
 ---
+
+### Linux
+- [Aggiornare bashrc](Categorie/Linux/bashrc-update.md)
 
 ### Sicurezza informatica
 - [Nmap](Categorie/Sicurezza-Informatica/Nmap.md)
