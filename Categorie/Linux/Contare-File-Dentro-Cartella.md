@@ -15,6 +15,6 @@ La sottrazione è necessaria perchè `wc -l` conta i ritorni a capo, ed è neces
 L'opzione `-l` di `ls` serve per stampare riga per riga la lista dei file con annesse varie informazioni (peso, proprietario, permessi, ...). L'opzione `-l` di `wc` invece serve per indicare che si vogliono contare i ritorni a capo. `wc` serve per stampare alcuni conteggi o caratteri presenti in un file (anche lo stdin è considerato come file).
 
 ## Manuale
-Manuale di ls: [man](http://linux.die.net/man/1/ls "Manuale di ls")
-Manuale di wc: [man](http://linux.die.net/man/1/wc "Manuale di wc")
+Manuale di ls: [man](http://linux.die.net/man/1/ls "Manuale di ls")  
+Manuale di wc: [man](http://linux.die.net/man/1/wc "Manuale di wc")  
 Manuale di bc: [man](http://linux.die.net/man/1/bc "Manuale di bc")
