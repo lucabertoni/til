@@ -12,7 +12,7 @@ I contenuti sono scritti in italiano per permettere, agli italiani ovviamente, d
 ---
 
 ## Categorie
-* Git
+* [Git](#git)
 * [Linux](#linux)
 * [Sicurezza informatica](#sicurezza-informatica)
 
