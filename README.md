@@ -12,10 +12,14 @@ I contenuti sono scritti in italiano per permettere, agli italiani ovviamente, d
 ---
 
 ## Categorie
+* Git
 * [Linux](#linux)
 * [Sicurezza informatica](#sicurezza-informatica)
 
 ---
+
+### Git
+- [Estrarre il numero dei commit di una repository](Categorie/Git/Estrarre-Numero-Commmit-Repository.md)
 
 ### Linux
 - [Aggiornare bashrc](Categorie/Linux/bashrc-update.md)
