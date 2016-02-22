@@ -27,6 +27,7 @@ I contenuti sono scritti in italiano per permettere, agli italiani ovviamente, d
 - [Significato dei numeri di man](Categorie/Linux/Significato-numeri-in-man.md)
 - [Eliminare repository di apt con la sua chiave](Categorie/Linux/Eliminare-Repository-Source-Apt.md)
 - [Esportare database e tabelle MySQl con mysqldump](Categorie/Linux/Esportare-database-MySQL-CSV.md)
+- [Mostrare il peso di uno o più file da riga di comando](Categorie/Linux/Mostrare-peso-file-command-line.md)
 
 ### Sicurezza informatica
 - [Nmap](Categorie/Sicurezza-Informatica/Nmap.md)
