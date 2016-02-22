@@ -1,0 +1,3 @@
+# Rimuovere l'autoeliminazione degli spazi a fine riga
+Emacs a volte tende ad eliminare gli spazi a fine riga, e questo può risultare controproducente, soprattutto se si lavora utilizzando il markdown o tecnologie simili che richiedono la presenza di uno o più spazi a fine riga per determinate operazioni.
+
