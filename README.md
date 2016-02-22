@@ -22,7 +22,7 @@ I contenuti sono scritti in italiano per permettere, agli italiani ovviamente, d
 - [Estrarre il numero dei commit di una repository](Categorie/Git/Estrarre-Numero-Commmit-Repository.md)
 
 ### Emacs
-- [Rimuovere l'autoeliminazione degli spazi a fine riga](Rimuovere-autoeliminazione-spazi-fine-riga.md)
+- [Rimuovere l'autoeliminazione degli spazi a fine riga](Categorie/Emacs/Rimuovere-autoeliminazione-spazi-fine-riga.md)
 
 ### Linux
 - [Aggiornare bashrc](Categorie/Linux/bashrc-update.md)
