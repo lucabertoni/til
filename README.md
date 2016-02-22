@@ -16,6 +16,7 @@ I contenuti sono scritti in italiano per permettere, agli italiani ovviamente, d
 * [Emacs](#emacs)
 * [Linux](#linux)
 * [Sicurezza informatica](#sicurezza-informatica)
+
 ---
 
 ### Git
