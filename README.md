@@ -21,6 +21,7 @@ I contenuti sono scritti in italiano per permettere, agli italiani ovviamente, d
 - [Aggiornare bashrc](Categorie/Linux/bashrc-update.md)
 - [Contare i file presenti in una cartella](Categorie/Linux/Contare-File-Dentro-Cartella.md)
 - [Significato dei numeri di man](Categorie/Linux/Significato-numeri-in-man.md)
+- [Eliminare repository di apt con la sua chiave](Categorie/Linux/Eliminare-Repository-Source-Apt.md)
 
 ### Sicurezza informatica
 - [Nmap](Categorie/Sicurezza-Informatica/Nmap.md)
