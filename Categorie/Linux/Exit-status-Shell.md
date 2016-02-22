@@ -8,7 +8,7 @@ echo $?
 La variabile `$?` contiene l'exit status dell'ultimo programma eseguito nella shell.
 
 Fish-shell:
-```
+```bash
 echo $status
 ```
 La variabile `status` contiene l'exit status dell'ultimo programma eseguito nella shell.
