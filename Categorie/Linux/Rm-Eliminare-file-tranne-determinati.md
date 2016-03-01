@@ -26,6 +26,12 @@ find /tmp/ ! -name 'file1.txt' ! -name 'file2.txt' -type f -exec sh -c 'rm {}' \
 ```
 `N.B.:` Il comando `find . !\(-name 'file1.txt' -a -name 'file2.txt'\) -type f -exec sh -c 'rm {}' \;` non funziona sull'ambiente utilizzato (Debian + fish shell), per questo motivo è necessario concatenare più `-name` negati (`! -name`).
 
+E' possibile anche applicare un filtro sui file da cercare. Il codice da eseguire è il seguente:
+```bash
+find /tmp/ -name '*.txt' ! -name 'file.txt' -type f -exec sh -c 'rm {}' \;
+```
+`-name '*.txt'` cerca solo i file che seguono il pattern `*.txt`
+
 ## Riferimenti
 - [Stackexchange](http://unix.stackexchange.com/questions/153862/remove-all-files-directories-except-for-one-file)
 - [Cyberciti](http://www.cyberciti.biz/faq/linux-bash-delete-all-files-in-directory-except-few/)
