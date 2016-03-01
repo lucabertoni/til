@@ -21,5 +21,5 @@ Per convertire un'intera regione selezionata in lowercase (minuscolo), usare il 
 C-x C-l
 ```
 
-# Riferimenti
+## Riferimenti
 Guida originale [qui](https://www.gnu.org/software/emacs/manual/html_node/emacs/Case.html).
