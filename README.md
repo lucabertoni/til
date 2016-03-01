@@ -34,6 +34,7 @@ I contenuti sono scritti in italiano per permettere, agli italiani ovviamente, d
 - [Mostrare il peso di uno o più file da riga di comando](Categorie/Linux/Mostrare-peso-file-command-line.md)
 - [Stampare exit status di un programma eseguito nella shell](Categorie/Linux/Exit-status-Shell.md)
 - [Stampare lista aggiornamenti disponibili di apt-get](Categorie/Linux/apt-get-list-upgrades.md)
+- [Eliminare file con eccezioni usando rm](Categorie/Linux/Rm-Eliminare-file-tranne-determinati.md)
 
 ### Sicurezza informatica
 - [Nmap](Categorie/Sicurezza-Informatica/Nmap.md)
