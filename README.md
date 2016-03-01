@@ -25,8 +25,7 @@ I contenuti sono scritti in italiano per permettere, agli italiani ovviamente, d
 ### Emacs
 - [Rimuovere l'autoeliminazione degli spazi a fine riga](Categorie/Emacs/Rimuovere-autoeliminazione-spazi-fine-riga.md)
 - [Convertire in maiuscolo/minuscolo una parola o una regione di testo](Categorie/Emacs/Uppercase-lowercase.md)
-- [Scrollare il file](Categorie/Emacs/Scrolling.md)
-- [Elencare solo cartelle e non file](Categorie/Linux/Elencare-solo-cartelle-ls.md)
+- [Scrollare il file](Categorie/Emacs/Scrolling.md) 
 
 ### Linux
 - [Aggiornare bashrc](Categorie/Linux/bashrc-update.md)
@@ -38,6 +37,7 @@ I contenuti sono scritti in italiano per permettere, agli italiani ovviamente, d
 - [Stampare exit status di un programma eseguito nella shell](Categorie/Linux/Exit-status-Shell.md)
 - [Stampare lista aggiornamenti disponibili di apt-get](Categorie/Linux/apt-get-list-upgrades.md)
 - [Eliminare file con eccezioni usando rm](Categorie/Linux/Rm-Eliminare-file-tranne-determinati.md)
+- [Elencare solo cartelle e non file](Categorie/Linux/Elencare-solo-cartelle-ls.md)
 
 ### Sicurezza informatica
 - [Nmap](Categorie/Sicurezza-Informatica/Nmap.md)
