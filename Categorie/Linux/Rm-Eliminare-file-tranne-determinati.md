@@ -22,7 +22,7 @@ Analizziamo il comando:
 
 Se i file da escludere dall'eliminazione sono molteplici, si può usare il comando nel seguente modo:
 ```bash
-find . ! -name 'file1.txt' ! -name 'file2.txt' -type f -exec sh -c 'rm {}' \;
+find /tmp/ ! -name 'file1.txt' ! -name 'file2.txt' -type f -exec sh -c 'rm {}' \;
 ```
 `N.B.:` Il comando `find . !\(-name 'file1.txt' -a -name 'file2.txt'\) -type f -exec sh -c 'rm {}' \;` non funziona sull'ambiente utilizzato (Debian + fish shell), per questo motivo è necessario concatenare più `-name` negati (`! -name`).
 
