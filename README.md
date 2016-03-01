@@ -38,6 +38,7 @@ I contenuti sono scritti in italiano per permettere, agli italiani ovviamente, d
 - [Stampare lista aggiornamenti disponibili di apt-get](Categorie/Linux/apt-get-list-upgrades.md)
 - [Eliminare file con eccezioni usando rm](Categorie/Linux/Rm-Eliminare-file-tranne-determinati.md)
 - [Elencare solo cartelle e non file](Categorie/Linux/Elencare-solo-cartelle-ls.md)
+- [Comprimere/Creare archivi con tar + gzip con delle esclusioni](Categorie/Linux/Comprimere-file-con-tar-con-esclusioni.md)
 
 ### Sicurezza informatica
 - [Nmap](Categorie/Sicurezza-Informatica/Nmap.md)
