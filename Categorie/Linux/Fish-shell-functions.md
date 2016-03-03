@@ -15,6 +15,12 @@ function ll ; ls -l $argv ; end
 ```
 - `$argv` è la variabile di sistema che immagazzina gli eventuali parametri passati (in questo caso potrebbe essere il pattern, es: "*.txt").
 
+Per salvare una funzione appena creata usare il seguente comando:
+```bash
+funcsave nome_funzione
+```
+- `nome_funzione` è il nome da associare alla funzione.
+
 Per cancellare una funzione si utilizza invece `functions`, in questo modo:
 ```bash
 functions -e nome_funzione
