@@ -46,4 +46,4 @@ find /tmp/ -name '*.txt' ! -name 'file.txt' -type f | xargs rm
 Manuale di find: [clicca qui](http://linux.die.net/man/1/find).  
 Manuale di rm: [clicca qui](http://linux.die.net/man/1/rm).  
 Manuale di sh: [clicca qui](http://linux.die.net/man/1/sh).  
-Manuale di xarg [clicca qui](http://linux.die.net/man/1/xargs).
+Manuale di xargs: [clicca qui](http://linux.die.net/man/1/xargs).
