@@ -32,6 +32,12 @@ find /tmp/ -name '*.txt' ! -name 'file.txt' -type f -exec sh -c 'rm {}' \;
 ```
 `-name '*.txt'` cerca solo i file che seguono il pattern `*.txt`
 
+Un modo migliore per avere lo stesso risultato è il seguente:
+```bash
+find /tmp/ -name '*.txt' ! -name 'file.txt' -type f | xargs rm
+```
+- `xargs` è un utility per l'esecuzione di comandi da riga di comando. In questo caso prende i dati estratti con `find` e li passa come parametro ad `rm`.
+
 ## Riferimenti
 - [Stackexchange](http://unix.stackexchange.com/questions/153862/remove-all-files-directories-except-for-one-file)
 - [Cyberciti](http://www.cyberciti.biz/faq/linux-bash-delete-all-files-in-directory-except-few/)
@@ -40,3 +46,4 @@ find /tmp/ -name '*.txt' ! -name 'file.txt' -type f -exec sh -c 'rm {}' \;
 Manuale di find: [clicca qui](http://linux.die.net/man/1/find).  
 Manuale di rm: [clicca qui](http://linux.die.net/man/1/rm).  
 Manuale di sh: [clicca qui](http://linux.die.net/man/1/sh).  
+Manuale di xarg [clicca qui](http://linux.die.net/man/1/xargs).
