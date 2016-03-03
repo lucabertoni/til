@@ -39,6 +39,8 @@ I contenuti sono scritti in italiano per permettere, agli italiani ovviamente, d
 - [Eliminare file con eccezioni usando rm](Categorie/Linux/Rm-Eliminare-file-tranne-determinati.md)
 - [Elencare solo cartelle e non file](Categorie/Linux/Elencare-solo-cartelle-ls.md)
 - [Comprimere/Creare archivi con tar + gzip con delle esclusioni](Categorie/Linux/Comprimere-file-con-tar-con-esclusioni.md)
+- [Estrarre dimensione file con wget prima di scaricarlo](Categorie/Linux/Wget-get-file-size.md)
+- [Limitare la velocità di download di un file con wget](Categorie/Linux/Wget-limit-download-speed.md)
 
 ### Sicurezza informatica
 - [Nmap](Categorie/Sicurezza-Informatica/Nmap.md)
