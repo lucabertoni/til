@@ -41,6 +41,7 @@ I contenuti sono scritti in italiano per permettere, agli italiani ovviamente, d
 - [Comprimere/Creare archivi con tar + gzip con delle esclusioni](Categorie/Linux/Comprimere-file-con-tar-con-esclusioni.md)
 - [Estrarre dimensione file con wget prima di scaricarlo](Categorie/Linux/Wget-get-file-size.md)
 - [Limitare la velocità di download di un file con wget](Categorie/Linux/Wget-limit-download-speed.md)
+- [Gestione degli alias e funzioni per la shell fish](Categorie/Linux/Fish-shell-functions.md)
 
 ### Sicurezza informatica
 - [Nmap](Categorie/Sicurezza-Informatica/Nmap.md)
