@@ -25,5 +25,5 @@ ping indirizzo
 Per la guida originale seguire il seguente link: [http://www.cyberciti.biz/faq/debian-linux-wpa-wpa2-wireless-wifi-networking/](http://www.cyberciti.biz/faq/debian-linux-wpa-wpa2-wireless-wifi-networking/)
 
 # Manuale
-Il manuale di `ifup` può essere letto qui: [manuale](http://linux.die.net/man/8/ifup).
+Il manuale di `ifup` può essere letto qui: [manuale](http://linux.die.net/man/8/ifup).  
 Il manuale di `ping` può essere letto qui: [manuale](http://linux.die.net/man/8/ping).
