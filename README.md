@@ -26,6 +26,7 @@ I contenuti sono scritti in italiano per permettere, agli italiani ovviamente, d
 - [Rimuovere l'autoeliminazione degli spazi a fine riga](Categorie/Emacs/Rimuovere-autoeliminazione-spazi-fine-riga.md)
 - [Convertire in maiuscolo/minuscolo una parola o una regione di testo](Categorie/Emacs/Uppercase-lowercase.md)
 - [Scrollare il file](Categorie/Emacs/Scrolling.md) 
+- [Cancellare testo](Categorie/Emacs/Erasing-text.md)
 
 ### Linux
 - [Aggiornare bashrc](Categorie/Linux/bashrc-update.md)
