@@ -45,6 +45,7 @@ I contenuti sono scritti in italiano per permettere, agli italiani ovviamente, d
 - [Gestione degli alias e funzioni per la shell fish](Categorie/Linux/Fish-shell-functions.md)
 - [Configurare WiFi su Debian](Categorie/Linux/Configurare-wifi-Debian.md)
 - [Controllare settori danneggiati su ambienti Linux](Categorie/Linux/Controllare-settori-danneggiati-hdd.md)
+- [Modificare etichetta partizione](Categorie/Linux/Modificare-etichetta-partizione.md)
 
 ### Sicurezza informatica
 - [Nmap](Categorie/Sicurezza-Informatica/Nmap.md)
