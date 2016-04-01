@@ -72,8 +72,7 @@ Per leggere la guida originale, cliccare [qui](https://help.ubuntu.com/community
 
 ## Manuali
 Il manuale di `mlabel` può essere letto al seguente link: [http://linux.die.net/man/1/mlabel](http://linux.die.net/man/1/mlabel).  
-Il manuale di `` può essere letto al seguente link: [http://linux.die.net/man/8/ntfslabel](http://linux.die.net/man/8/ntfslabel).  
-Il manuale di `mtools` può essere letto al seguente link: [http://linux.die.net/man/8/ntfslabel](http://linux.die.net/man/8/ntfslabel).  
+Il manuale di `ntfslabel` può essere letto al seguente link: [http://linux.die.net/man/8/ntfslabel](http://linux.die.net/man/8/ntfslabel).  
 Il manuale di `e2label` può essere letto al seguente link: [http://linux.die.net/man/8/e2label](http://linux.die.net/man/8/e2label).  
 Il manuale di `jfs_tune` può essere letto al seguente link: [http://man.he.net/man8/jfs_tune](http://man.he.net/man8/jfs_tune).  
 Il manuale di `ReiserFS` può essere letto al seguente link: [http://man.he.net/man8/reiserfstune](http://man.he.net/man8/reiserfstune).  
