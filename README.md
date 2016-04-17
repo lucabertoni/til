@@ -46,6 +46,7 @@ I contenuti sono scritti in italiano per permettere, agli italiani ovviamente, d
 - [Configurare WiFi su Debian](Categorie/Linux/Configurare-wifi-Debian.md)
 - [Controllare settori danneggiati su ambienti Linux](Categorie/Linux/Controllare-settori-danneggiati-hdd.md)
 - [Modificare etichetta partizione](Categorie/Linux/Modificare-etichetta-partizione.md)
+- [Aggiungere font al sistema](Categorie/Linux/Aggiungere-font.md)
 
 ### Sicurezza informatica
 - [Nmap](Categorie/Sicurezza-Informatica/Nmap.md)
