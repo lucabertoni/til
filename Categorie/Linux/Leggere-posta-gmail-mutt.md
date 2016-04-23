@@ -40,7 +40,7 @@ Dopo aver installato il pacchetto è necessario configurarlo. Seguire i seguenti
   ```
   * Eseguire poi il seguente comando per cambiare l'accessibilità del file
   ```bash
-  chmod 700 ~/.muttrc
+    chmod 700 ~/.muttrc 
   ```
 
 ## Riferimenti
