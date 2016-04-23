@@ -39,10 +39,10 @@ Dopo aver installato il pacchetto è necessario configurarlo. Seguire i seguenti
   mkdir ~/.mutt/cache
   ```
   * Eseguire poi il seguente comando per cambiare l'accessibilità del file
-  ```bash 
+  ```bash
   chmod 700 ~/.muttrc
   ```
-  
+
 ## Riferimenti
 Per leggere la guida originale clicca sul seguente link: [https://blog.bartbania.com/raspberry_pi/consolify-your-gmail-with-mutt/](https://blog.bartbania.com/raspberry_pi/consolify-your-gmail-with-mutt/)
 
