@@ -47,7 +47,7 @@ I contenuti sono scritti in italiano per permettere, agli italiani ovviamente, d
 - [Controllare settori danneggiati su ambienti Linux](Categorie/Linux/Controllare-settori-danneggiati-hdd.md)
 - [Modificare etichetta partizione](Categorie/Linux/Modificare-etichetta-partizione.md)
 - [Aggiungere font al sistema](Categorie/Linux/Aggiungere-font.md)
-- [Categorie/Linux/Leggere-posta-gmail-mutt.md](Categorie/Linux/Leggere-posta-gmail-mutt.md)
+- [Gestire email da riga di comando con mutt](Categorie/Linux/Leggere-posta-gmail-mutt.md)
 
 ### Sicurezza informatica
 - [Nmap](Categorie/Sicurezza-Informatica/Nmap.md)
