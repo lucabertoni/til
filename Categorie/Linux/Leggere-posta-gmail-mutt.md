@@ -1,6 +1,7 @@
 # Gestire email da riga di comando con mutt
 Per leggere le email da riga di comando su Linux esiste un tool chiamato `mutt`.  
 Per installare `mutt` è sufficiente usare un package manager (in questo caso verrà utilizzato apt):
+
 ```bash
 apt-get install mutt
 ```
