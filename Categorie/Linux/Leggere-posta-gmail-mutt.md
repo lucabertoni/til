@@ -39,7 +39,7 @@ Dopo aver installato il pacchetto è necessario configurarlo. Seguire i seguenti
   mkdir ~/.mutt/cache
   ```
   * Eseguire poi il seguente comando per cambiare l'accessibilità del file
-  ```bash
+  ```bash 
   chmod 700 ~/.muttrc
   ```
   
