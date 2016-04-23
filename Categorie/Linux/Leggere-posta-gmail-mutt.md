@@ -6,10 +6,12 @@ apt-get install mutt
 ```
 
 Dopo aver installato il pacchetto è necessario configurarlo. Seguire i seguenti passaggi:  
+  
   * Creare il file `.muttrc` nella home dell'utente (`~/`)
   ```bash
   touch ~/.muttrc
   ```
+  
   * Inserire all'interno del file il seguente testo
   ```
   set from = 'email_address@domain.com'
@@ -38,9 +40,10 @@ Dopo aver installato il pacchetto è necessario configurarlo. Seguire i seguenti
   mkdir ~/.mutt
   mkdir ~/.mutt/cache
   ```
+  
   * Eseguire poi il seguente comando per cambiare l'accessibilità del file
   ```bash
-    chmod 700 ~/.muttrc 
+  chmod 700 ~/.muttrc 
   ```
 
 ## Riferimenti
