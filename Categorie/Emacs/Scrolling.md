@@ -14,5 +14,10 @@ M-v
 
 I due comandi solitamente non muovono la posizione del cursore.
 
+Per allineare la riga sulla quale si trova il cursore al centro dello schermo usare la seguente combinazione:
+```
+C-l
+``` 
+
 ## Riferimenti
 Guida originale [qui](https://www.gnu.org/software/emacs/manual/html_node/emacs/Scrolling.html).
