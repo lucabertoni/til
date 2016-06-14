@@ -16,6 +16,7 @@ I contenuti sono scritti in italiano per permettere, agli italiani ovviamente, d
 * [Emacs](#emacs)
 * [Linux](#linux)
 * [Sicurezza informatica](#sicurezza-informatica)
+* [VM](#vm-section)
 
 ---
 
@@ -51,6 +52,9 @@ I contenuti sono scritti in italiano per permettere, agli italiani ovviamente, d
 
 ### Sicurezza informatica
 - [Nmap](Categorie/Sicurezza-Informatica/Nmap.md)
+
+### vm-section ###
+- [Creare disco condiviso su più VMs in VMware](Categorie/VM/VMWare-shared-disk.md) 
 
 ## Crediti
 
