@@ -17,6 +17,7 @@ I contenuti sono scritti in italiano per permettere, agli italiani ovviamente, d
 * [Linux](#linux)
 * [Sicurezza informatica](#sicurezza-informatica)
 * [VM](#vm-section)
+* [Guide software](#guide-software)
 
 ---
 
@@ -55,6 +56,9 @@ I contenuti sono scritti in italiano per permettere, agli italiani ovviamente, d
 
 ### vm-section ###
 - [Creare disco condiviso su più VMs in VMware](Categorie/VM/VMWare-shared-disk.md) 
+
+### Guide software ###
+- [Installazione qmail ambiente Linux](Categorie/Guide-software/qmail.md)
 
 ## Crediti
 
